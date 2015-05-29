@@ -1,6 +1,6 @@
 {
   "name": "get-modules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get all filenames from `./modules`",
   "license": "MIT",
   "repository": "1-liners/get-modules",
