@@ -39,7 +39,7 @@
     "get-modules"
   ],
   "dependencies": {
-    "meow": "^3.1.0"
+    "meow": "^6.0.0"
   },
   "devDependencies": {
     "babel": "^5.1.10",
