@@ -1,6 +1,6 @@
 {
   "name": "get-modules",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get all filenames from `./modules`",
   "license": "MIT",
   "repository": "1-liners/get-modules",
@@ -39,7 +39,7 @@
     "get-modules"
   ],
   "dependencies": {
-    "meow": "^3.1.0"
+    "meow": "^14.1.0"
   },
   "devDependencies": {
     "babel": "^5.1.10",
